@@ -1,3 +1,7 @@
 body {
     background-color: #00cae4;
 }
+
+.destination:hover h2 {
+    transform: rotate(0deg);
+}
